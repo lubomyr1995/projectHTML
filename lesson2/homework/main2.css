@@ -1,0 +1,32 @@
+h1{
+    background: #852a27;
+    text-align: center;
+    font-size: 34px;
+    color: #f0e0d9;
+}
+.box1{
+    box-sizing: border-box;
+    background: #b9b9ba;
+    font-size: 16px;
+    padding: 25px;
+}
+.box2{
+    box-sizing: border-box;
+    background: #6191e4;
+    font-size: 16px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.box3{
+    box-sizing: border-box;
+    background: #69b466;
+    width: 200px;
+    height: 200px;
+}
+.box4{
+    box-sizing: border-box;
+    background: #8582a6;
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+}

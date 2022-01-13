@@ -1,0 +1,12 @@
+.box {
+    background: silver;
+    width: 600px;
+    height: 400px;
+    margin-top: 100px;
+    margin-bottom: 0;
+    box-shadow: #f5d09e -30px -50px 30px 5px;
+}
+p {
+    border-left: 5px solid #c73939;
+    padding-left: 20px;
+}

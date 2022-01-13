@@ -1,0 +1,30 @@
+body {
+    background: #262626;
+    margin-top: 200px;
+}
+.box {
+    box-sizing: border-box;
+    padding: 10px;
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    margin: 15px auto;
+    border-radius: 50px;
+}
+.cs1 {
+    color: coral;
+    border: 5px solid coral;
+ }
+.cs2 {
+    color: #57b0b2;
+    border: 5px solid #57b0b2;
+}
+.cs3 {
+    color: #c263b2;
+    border: 5px solid #c263b2;
+}
+.cs4 {
+    color: #c73939;
+    border: 5px solid #c73939;
+}
