@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+.main_all{
+    box-sizing: border-box;
+    background: #12b6cd;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+}
+.boxes{
+    box-sizing: border-box;
+    background: #f4f4f4;
+    height: 200px;
+    width: 42%;
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+h2{
+    color: #de8c2c;
+    font-size: 30px;
+}
+.boxes > i{
+    font-size: 70px;
+    margin: 50px;
+}

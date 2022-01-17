@@ -1,0 +1,32 @@
+.classA{
+    background: silver;
+    height: 150px;
+    font-size: 36px;
+    margin: 10px;
+    text-align: center;
+    padding-top: 93px;
+}
+.classMain{
+    display: flex;
+    height: 550px;
+}
+.classB{
+    box-sizing: border-box;
+    background: silver;
+    font-size: 36px;
+    width: 75%;
+    margin: 10px;
+    text-align: center;
+    padding-top: 251px;
+
+}
+.classC{
+    box-sizing: border-box;
+    background: silver;
+    font-size: 36px;
+    width: 25%;
+    margin: 10px;
+    text-align: center;
+    padding-top: 251px;
+
+}

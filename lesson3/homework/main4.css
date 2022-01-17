@@ -1,0 +1,39 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    font-size: 48px;
+    color: white;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+.size1{
+    background: #1363a2;
+    height: 140px;
+}
+.size2{
+    background: #144a74;
+    height: 100px;
+}
+.size3{
+    background: #189ebe;
+    height: 800px;
+    width: 75%;
+}
+.size4{
+    background: #5272a8;
+    height: 800px;
+    width: 25%;
+}
+.size5{
+    background: #79c5dc;
+    height: 100px;
+}
+.all{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

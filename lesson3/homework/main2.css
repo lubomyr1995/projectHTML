@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+.all{
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+#header{
+    background: #deedaa;
+    margin: 10px;
+    height: 120px;
+    text-align: center;
+    padding-top: 50px;
+}
+#menu{
+    background: #f5b1f6;
+    margin: 10px;
+    text-align: center;
+    padding-top: 200px;
+}
+.post{
+    background: #9adaf5;
+    margin: 10px;
+    height: 235px;
+    row-gap: 20px;
+    text-align: center;
+    padding-top: 115px;
+}
+#footer{
+
+    background: #f5f5c4;
+    margin: 10px;
+    height: 120px;
+    text-align: center;
+    padding-top: 50px;
+}
